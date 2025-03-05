@@ -42,25 +42,6 @@ scikit-learn, pytorch, pandas, numpy, scipy, matplotlib, seaborn
 
 <hr style="border: 1px solid gray;" />
 
-## 🚀 Мои проекты
-### Пайплайн задачи распознавания лиц (face recognition)
-Используемые технологии: Google Colab, pytorch, scikit-learn, numpy, pandas, matplotlib, scikit-image
-  ```bash
-  https://github.com/iv-galkin/face-recognition.git
-  ```
-<hr style="border: 1px solid gray;" />
-
-## 🤖 Пройденные курсы 
-| **Курс**       | **Дата**                                                                 |
-|-----------------------|----------------------------------------------------------------------------|
-| stepik.org/Deep Learning (семестр 1, осень 2024) | 09/2024 - 02/2025 |
-| Машинное обучение для решения прикладных задач от Института теоретической и математической физики | 09/2024 - 12/2024 |
-| stepik.org/Добрый, добрый ИИ. Часть 1. Машинное обучение | 08/2024 - 11/2024 |
-| stepik.org/Анализ данных в R | 07/2023 - 08/2023 |
-| stepik.org/Основы статистики | 06/2023 - 07/2023 |
-| stepik.org/Поколение Python: курс для начинающих | 06/2022 - 08/2022 |
-
-<hr style="border: 1px solid gray;" />
 
 ## ✉️ Связаться со мной
 <a href="https://t.me/iv_galkin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/iv__galkin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20" alt="Telegram" /></a>
