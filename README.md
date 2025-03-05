@@ -44,7 +44,7 @@ scikit-learn, pytorch, pandas, numpy, scipy, matplotlib, seaborn
 
 ## 🚀 Мои проекты
 ### Пайплайн задачи распознавания лиц (face recognition)
-Используемые технологии: python, scikit-learn, pytorch, numpy, matplotlib, seaborn.
+Используемые технологии: Google Colab, pytorch, scikit-learn, numpy, pandas, matplotlib, scikit-image
   ```bash
   https://github.com/iv-galkin/face-recognition.git
   ```
