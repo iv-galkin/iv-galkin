@@ -42,6 +42,9 @@ numpy, pandas, scikit-learn, pytorch, torchvision, nltk, matplotlib, seaborn, sc
 
 <hr style="border: 1px solid gray;" />
 
+## 🛠️ Навыки
+Машинное обучение, нейронные сети, компьютерное зрение, анализ данных, компьютерное моделирование, умение решать различные физические и математические задачи.
+<hr style="border: 1px solid gray;" />
 
 ## ✉️ Связаться со мной
 <a href="https://t.me/iv_galkin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/iv__galkin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20" alt="Telegram" /></a>
