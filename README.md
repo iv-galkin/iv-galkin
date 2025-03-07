@@ -1,5 +1,8 @@
 ## Привет, меня зовут Иван!  
-<hr style="border: 1px solid gray;" />
+<p align="center">
+ <img src="https://img.shields.io/badge/Data%20Scientist-%23008cff?style=for-the-badge&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/Machine%20Learning-%2300cc99?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 ### 👨‍💻 Обо мне  
 Я начинающий data scientist. Учусь на кафедре математического моделирования и информатики физического факультета МГУ имени М. В. Ломоносова. С 2023 года в сфере моих интересов лежит анализ данных, машинное (ML) и глубокое обучение (DL), а также компьютерное зрение (CV). 
@@ -19,14 +22,11 @@
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL" />
-</a>
 </p>
 
 <hr style="border: 1px solid gray;" />
 
-## 🛠️ Инструменты
+## 🛠️ Инструменты и среды разработки
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="Visual Studio Code" /></a>
@@ -38,7 +38,7 @@
 <hr style="border: 1px solid gray;" />
 
 ## 📚 Библиотеки
-scikit-learn, pytorch, pandas, numpy, scipy, matplotlib, seaborn
+numpy, pandas, scikit-learn, pytorch, torchvision, nltk, matplotlib, seaborn, scipy и др.
 
 <hr style="border: 1px solid gray;" />
 
