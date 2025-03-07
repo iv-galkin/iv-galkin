@@ -29,10 +29,10 @@
 ## 🛠️ Инструменты и среды разработки
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="Visual Studio Code" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="imgs/jupyter.svg" width="36" height="36" alt="Jupyter"/></a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="imgs/Google_Colaboratory_SVG_Logo.svg" width="36" height="36" alt="Google Colab" /></a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/latex.png" height="36" alt="LaTex" /></a>
+<a href="https://www.jetbrains.com/pycharm/?ysclid=m7yrjequxs334003502" target="_blank" rel="noreferrer"><img src="imgs/PyCharm.svg" height="36" alt="PyCharm" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="Visual Studio Code" /></a>
 </p>
 
 <hr style="border: 1px solid gray;" />
