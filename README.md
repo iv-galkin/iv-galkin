@@ -13,7 +13,7 @@
 
 - 🎓 Прохожу межфакультетский курс МГУ по глубокому обучению
 
-- 🌱 Хочу освоить профессию data scientist'а и попасть на стажировку, устроиться в штат 
+- 🌱 Развиваюсь в data science и хочу попасть на стажировку, устроиться в штат 
 
 </br>
 <hr style="border: 1px solid gray;" />
@@ -38,7 +38,7 @@
 <hr style="border: 1px solid gray;" />
 
 ## 📚 Библиотеки
-numpy, pandas, scikit-learn, pytorch, torchvision, nltk, matplotlib, seaborn, scipy и др.
+numpy, pandas, scikit-learn, torch, torchvision, CatBoost, nltk, matplotlib, seaborn, scipy и др.
 
 <hr style="border: 1px solid gray;" />
 
