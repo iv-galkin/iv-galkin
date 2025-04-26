@@ -29,7 +29,7 @@
 <hr style="border: 1px solid gray;" />
 
 ## 📚 Библиотеки
-numpy, pandas, scikit-learn, torch, torchvision, CatBoost, nltk, matplotlib, seaborn, scipy и др.
+numpy, pandas, scikit-learn, torch, torchvision, CatBoost, XGBoost, LightGMB, optuna, nltk, matplotlib, seaborn, scipy и др.
 
 <hr style="border: 1px solid gray;" />
 
