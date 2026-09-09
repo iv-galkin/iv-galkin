@@ -4,11 +4,6 @@
  <img src="https://img.shields.io/badge/Machine%20Learning-%2300cc99?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### 👨‍💻 Обо мне  
-Я начинающий data scientist. Учусь на кафедре математического моделирования и информатики физического факультета МГУ имени М. В. Ломоносова. С 2023 года в сфере моих интересов лежат анализ данных, машинное (ML) и глубокое обучение (DL), а также компьютерное зрение (CV). 
-</br>
-<hr style="border: 1px solid gray;" />
-
 ## 💻 Языки программирования
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
