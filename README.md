@@ -1,4 +1,3 @@
-## Привет, меня зовут Иван!  
 <p align="center">
  <img src="https://img.shields.io/badge/Data%20Scientist-%23008cff?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/Machine%20Learning-%2300cc99?style=for-the-badge&logo=tensorflow&logoColor=white" />
